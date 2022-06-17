@@ -1,0 +1,20 @@
+.header {
+  height: 60px;
+  width: 100%;
+  background-color: rebeccapurple;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 50px;
+  align-items: center;
+  color: white;
+  font-size: large;
+}
+.button {
+  padding: 7px 15px;
+  background-color: transparent;
+  cursor: pointer;
+  color: white;
+  border: none;
+  font-weight: 500;
+  font-size: 16px;
+}
